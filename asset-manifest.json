@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/petrusdarius/petrusdarius.github.io.git/static/css/main.6955feea.chunk.css",
+    "main.js": "/petrusdarius/petrusdarius.github.io.git/static/js/main.5faac824.chunk.js",
+    "main.js.map": "/petrusdarius/petrusdarius.github.io.git/static/js/main.5faac824.chunk.js.map",
+    "runtime-main.js": "/petrusdarius/petrusdarius.github.io.git/static/js/runtime-main.1db8e565.js",
+    "runtime-main.js.map": "/petrusdarius/petrusdarius.github.io.git/static/js/runtime-main.1db8e565.js.map",
+    "static/js/2.81627492.chunk.js": "/petrusdarius/petrusdarius.github.io.git/static/js/2.81627492.chunk.js",
+    "static/js/2.81627492.chunk.js.map": "/petrusdarius/petrusdarius.github.io.git/static/js/2.81627492.chunk.js.map",
+    "index.html": "/petrusdarius/petrusdarius.github.io.git/index.html",
+    "precache-manifest.70fdea98716c6651886f16a4b814695c.js": "/petrusdarius/petrusdarius.github.io.git/precache-manifest.70fdea98716c6651886f16a4b814695c.js",
+    "service-worker.js": "/petrusdarius/petrusdarius.github.io.git/service-worker.js",
+    "static/css/main.6955feea.chunk.css.map": "/petrusdarius/petrusdarius.github.io.git/static/css/main.6955feea.chunk.css.map",
+    "static/js/2.81627492.chunk.js.LICENSE.txt": "/petrusdarius/petrusdarius.github.io.git/static/js/2.81627492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db8e565.js",
+    "static/js/2.81627492.chunk.js",
+    "static/css/main.6955feea.chunk.css",
+    "static/js/main.5faac824.chunk.js"
+  ]
+}
